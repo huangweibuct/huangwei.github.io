@@ -1,0 +1,10 @@
+
+/* (A) FLEX CONTAINER */
+.wrap-flex { display: flex; }
+ 
+/* (B) NOT IMPORTANT - COSMETICS */
+.wrap-flex > * {
+  width: 20%;
+  border: None;
+  padding: 1.2em;
+}
